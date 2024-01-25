@@ -1,5 +1,7 @@
 Forked from https://github.com/MaxBourdon/mars/tree/main
 
+This is for of repo of the team project for course Numerical linear Algebra at Skoltech. 
+
 # MARS: Masked Automatic Ranks Selection in Tensor Decompositions
 This repository contains code for our paper [MARS: Masked Automatic Ranks Selection in Tensor Decompositions](https://arxiv.org/abs/2006.10859).
 
